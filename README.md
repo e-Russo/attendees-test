@@ -1,4 +1,4 @@
-This single component webapp was made by Arsenic (aka Yeeno) for the powsup dev test. All rights reserved. 
+This single component webapp was made by e-Russo (aka Yeeno) for the powsup dev test. All rights reserved. 
 
 In order to run a development build of the app:
 ```
